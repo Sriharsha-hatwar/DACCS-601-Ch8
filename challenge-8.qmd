@@ -1,0 +1,13 @@
+---
+title: ""
+format: html
+editor: visual
+---
+
+### Connecting R-studio with git. 
+
+Hello! World!
+
+1.  what was the last movie you watched in a theater?
+
+    ANSWER : The last movie I watched Oppenheimer.
